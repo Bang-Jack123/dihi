@@ -67,7 +67,7 @@ IP = requests.get('https://api.ipify.org').text
 def banner():
 	print (''' %s 
  © Group%s
-kami
+
  ____ __ __ ____ _____ 
  | _ \| \/ | __ )| ___| %s> %s DIHI
  | | | | |\/| | _ \| |_  %s> %sMULTI
