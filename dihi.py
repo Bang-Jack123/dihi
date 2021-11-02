@@ -66,10 +66,10 @@ def folder():
 IP = requests.get('https://api.ipify.org').text
 def banner():
 	print (''' %s 
- © Group%s
+ © Grup%s
 
- ____ __ __ ____ _____ 
- | _ \| \/ | __ )| ___| %s> %s DIHI
+  ____  __ __ ____ _____ 
+ | _ \ | \/ | __ )| ___| %s> %s DIHI
  | | | | |\/| | _ \| |_  %s> %sMULTI
  | |_| | | | | |_) | _| %s>%sBROT
  |____/|_|  |_|____/|_|	 %s>%sFORCE
